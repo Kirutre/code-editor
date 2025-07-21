@@ -36,7 +36,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.4</version>
                 <configuration>
-                    <mainClass>io.github.kirutre.code_editor.App</mainClass>
+                    <mainClass>io.github.kirutre.code_editor.Main</mainClass>
                 </configuration>
                 <executions>
                     <execution>
